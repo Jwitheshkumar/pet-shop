@@ -1,0 +1,44 @@
+.category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #ddd;
+    transition: 0.3s;
+  }
+  
+  .category-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .category-card h5 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .category-card:hover {
+    border-color: orange;
+  }
+.home-bg {
+  background: linear-gradient(to bottom right, #fff2e6, #ffe5d1);
+  min-height: 100vh;
+}
+.home-bg {
+  background: url("https://placehold.co/1920x1080?text=Pet+Banner") center/cover no-repeat;
+  min-height: 100vh;
+}
+
+.category-card img {
+  border-radius: 50%;
+}
+
+  

@@ -1,0 +1,28 @@
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 2rem 0;
+  }
+  
+  .footer h5 {
+    margin-bottom: 1rem;
+  }
+  
+  .footer p,
+  .footer li {
+    font-size: 0.9rem;
+  }
+  
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-links li {
+    margin-bottom: 0.5rem;
+  }
+  
